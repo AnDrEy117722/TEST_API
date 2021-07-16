@@ -1,3 +1,3 @@
 # TEST_API
-Task for interview
+Task for interview.
 App for adding and output records of user
